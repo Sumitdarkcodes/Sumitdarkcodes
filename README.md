@@ -59,13 +59,6 @@ MERN-based financial transaction management system.
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sumitdarkcodes/Sumitdarkcodes/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 

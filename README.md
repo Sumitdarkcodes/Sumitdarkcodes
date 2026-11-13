@@ -35,29 +35,65 @@ Hi! I'm **Sumit Kumar**, a Full-Stack Developer passionate about creating useful
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏥 MediConnect AI
-AI-powered healthcare appointment platform.
+<h2 align="center">🚀 Featured Projects</h2>
 
-- Patient, Doctor and Admin roles
-- Appointment booking and availability
-- JWT authentication and REST APIs
-- MongoDB and React integration
+<p align="center">
+  <i>Building practical applications and solving real-world problems.</i>
+</p>
 
-[🔗 Explore Repository](https://github.com/Sumitdarkcodes/Ai-Healthcare)
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-### 💳 Banking & Ledger System
-MERN-based financial transaction management system.
+<h3>🏥 MediConnect AI</h3>
 
-- Double-entry CREDIT/DEBIT ledger
-- Secure authentication
-- Transaction history and balance calculation
-- MongoDB aggregation and idempotency
+<p>AI-Powered Healthcare Platform</p>
 
-[🔗 Explore Repository](https://github.com/Sumitdarkcodes/banking-system-project)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 
----
+<p>Patient, Doctor and Admin roles, appointment booking and healthcare management.</p>
+
+<a href="https://github.com/Sumitdarkcodes/Ai-Healthcare">🔗 Explore Project</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>💳 Banking & Ledger System</h3>
+
+<p>MERN Financial Application</p>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+
+<p>Secure financial transactions, double-entry ledger and balance management.</p>
+
+<a href="https://github.com/Sumitdarkcodes/banking-system-project">🔗 Explore Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<h3>🎮 2048 Java Game</h3>
+
+<p>Java-Based Puzzle Game</p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+
+<p>A classic number-merging puzzle game built using Java programming concepts.</p>
+
+<a href="https://github.com/Sumitdarkcodes">🔗 Explore My GitHub</a>
+
+</td>
+</tr>
+</table>
+
 
 
 ## 🤝 Connect With Me

@@ -35,79 +35,88 @@ Hi! I'm **Sumit Kumar**, a Full-Stack Developer passionate about creating useful
 
 ---
 
----
-
 ## 🚀 Featured Projects
 
 <p align="center">
-  <i>Building practical full-stack applications & solving real-world problems</i>
+  <i>Building practical full-stack applications &amp; solving real-world problems</i>
 </p>
 
-<br>
-
-### 🏥 MediConnect AI
-**AI-Powered Healthcare Platform**
-
-<img src="./assets/mediconnect-ai.gif" width="100%" alt="MediConnect AI"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white"/>
-</p>
-
-- Patient, Doctor & Admin roles  
-- AI-powered symptom analysis using Google Gemini  
-- Appointment booking and healthcare management system  
-
-<p align="center">
-  <a href="https://ai-healthcare-seven-nu.vercel.app"><strong>🌐 Live Demo</strong></a> &nbsp;•&nbsp;
-  <a href="https://github.com/Sumitdarkcodes/Ai-Healthcare"><strong>🔗 Repository</strong></a>
-</p>
+<table width="100%">
+  <tr>
+    <td valign="middle" width="50%">
+      <h3>🏥 MediConnect AI</h3>
+      <b>AI-Powered Healthcare Platform</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white"/>
+      <ul>
+        <li>Patient, Doctor &amp; Admin roles</li>
+        <li>AI-powered symptom analysis using Google Gemini</li>
+        <li>Appointment booking and healthcare management system</li>
+      </ul>
+      <a href="https://ai-healthcare-seven-nu.vercel.app"><strong>🌐 Live Demo</strong></a> &nbsp;•&nbsp;
+      <a href="https://github.com/Sumitdarkcodes/Ai-Healthcare"><strong>🔗 Repository</strong></a>
+    </td>
+    <td valign="middle" align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Sumitdarkcodes/Sumitdarkcodes/main/assets/mediconnect-ai.gif" width="480" alt="MediConnect AI"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💳 Ledger System
-**MERN Banking Platform**
-
-<img src="./assets/ledger-system.gif" width="100%" alt="Ledger System"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-- Double-entry immutable ledger system  
-- Atomic transfers with MongoDB sessions  
-- Idempotency keys and live balance calculation  
-
-<p align="center">
-  <a href="https://banking-system-project-seven.vercel.app"><strong>🌐 Live Demo</strong></a> &nbsp;•&nbsp;
-  <a href="https://github.com/Sumitdarkcodes/banking-system-project"><strong>🔗 Repository</strong></a>
-</p>
+<table width="100%">
+  <tr>
+    <td valign="middle" width="50%">
+      <h3>💳 Ledger System</h3>
+      <b>MERN Banking Platform</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+      <ul>
+        <li>Double-entry immutable ledger system</li>
+        <li>Atomic transfers with MongoDB sessions</li>
+        <li>Idempotency keys and live balance calculation</li>
+      </ul>
+      <a href="https://banking-system-project-seven.vercel.app"><strong>🌐 Live Demo</strong></a> &nbsp;•&nbsp;
+      <a href="https://github.com/Sumitdarkcodes/banking-system-project"><strong>🔗 Repository</strong></a>
+    </td>
+    <td valign="middle" align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Sumitdarkcodes/Sumitdarkcodes/main/assets/ledger-system.gif" width="480" alt="Ledger System"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎮 2048 Game
-**Classic Tile-Merging Puzzle in Java**
+<table width="100%">
+  <tr>
+    <td valign="middle" width="50%">
+      <h3>🎮 2048 Game</h3>
+      <b>Classic Tile-Merging Puzzle in Java</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white"/>
+      <ul>
+        <li>Complete game logic with tile merging</li>
+        <li>Colorful Swing UI and score tracking</li>
+        <li>Built with pure Java (no external libraries)</li>
+      </ul>
+      <a href="https://stellular-malabi-9aa333.netlify.app/"><strong>🌐 Live Demo</strong></a> &nbsp;•&nbsp;
+      <a href="https://github.com/Sumitdarkcodes/2048-Game-java-"><strong>🔗 Repository</strong></a>
+    </td>
+    <td valign="middle" align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Sumitdarkcodes/Sumitdarkcodes/main/assets/2048-game.gif" width="480" alt="2048 Game"/>
+    </td>
+  </tr>
+</table>
 
-<img src="./assets/2048-game.gif" width="100%" alt="2048 Game"/>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white"/>
-</p>
-
-- Complete game logic with tile merging  
-- Colorful Swing UI and score tracking  
-- Built with pure Java (no external libraries)  
-
-<p align="center">
-  <a href="https://github.com/Sumitdarkcodes/2048-Game-java-"><strong>🔗 Repository</strong></a>
-</p>
 ## 🤝 Connect With Me
 
 <p align="center">

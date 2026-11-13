@@ -35,68 +35,79 @@ Hi! I'm **Sumit Kumar**, a Full-Stack Developer passionate about creating useful
 
 ---
 
+---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
 <p align="center">
-  <i>Building practical applications and solving real-world problems.</i>
+  <i>Building practical full-stack applications & solving real-world problems</i>
 </p>
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+<br>
 
-<h3>🏥 MediConnect AI</h3>
 ### 🏥 MediConnect AI
-<img src="./assets/mediconnect-ai-premium.gif" width="100%"/>
-<p>AI-Powered Healthcare Platform</p>
+**AI-Powered Healthcare Platform**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="./assets/mediconnect-ai.gif" width="100%" alt="MediConnect AI"/>
 
-<p>Patient, Doctor and Admin roles, appointment booking and healthcare management.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white"/>
+</p>
 
-<a href="https://github.com/Sumitdarkcodes/Ai-Healthcare">🔗 Explore Project</a>
+- Patient, Doctor & Admin roles  
+- AI-powered symptom analysis using Google Gemini  
+- Appointment booking and healthcare management system  
 
-</td>
+<p align="center">
+  <a href="https://ai-healthcare-seven-nu.vercel.app"><strong>🌐 Live Demo</strong></a> &nbsp;•&nbsp;
+  <a href="https://github.com/Sumitdarkcodes/Ai-Healthcare"><strong>🔗 Repository</strong></a>
+</p>
 
-<td width="50%" align="center" valign="top">
+---
 
-<h3>💳 Banking & Ledger System</h3>
+### 💳 Ledger System
+**MERN Banking Platform**
 
-<p>MERN Financial Application</p>
+<img src="./assets/ledger-system.gif" width="100%" alt="Ledger System"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
-<p>Secure financial transactions, double-entry ledger and balance management.</p>
+- Double-entry immutable ledger system  
+- Atomic transfers with MongoDB sessions  
+- Idempotency keys and live balance calculation  
 
-<a href="https://github.com/Sumitdarkcodes/banking-system-project">🔗 Explore Project</a>
+<p align="center">
+  <a href="https://banking-system-project-seven.vercel.app"><strong>🌐 Live Demo</strong></a> &nbsp;•&nbsp;
+  <a href="https://github.com/Sumitdarkcodes/banking-system-project"><strong>🔗 Repository</strong></a>
+</p>
 
-</td>
-</tr>
+---
 
-<tr>
-<td colspan="2" align="center">
+### 🎮 2048 Game
+**Classic Tile-Merging Puzzle in Java**
 
-<h3>🎮 2048 Java Game</h3>
+<img src="./assets/2048-game.gif" width="100%" alt="2048 Game"/>
 
-<p>Java-Based Puzzle Game</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+- Complete game logic with tile merging  
+- Colorful Swing UI and score tracking  
+- Built with pure Java (no external libraries)  
 
-<p>A classic number-merging puzzle game built using Java programming concepts.</p>
-
-<a href="https://github.com/Sumitdarkcodes">🔗 Explore My GitHub</a>
-
-</td>
-</tr>
-</table>
-
-
-
+<p align="center">
+  <a href="https://github.com/Sumitdarkcodes/2048-Game-java-"><strong>🔗 Repository</strong></a>
+</p>
 ## 🤝 Connect With Me
 
 <p align="center">

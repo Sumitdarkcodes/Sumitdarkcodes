@@ -47,7 +47,8 @@ Hi! I'm **Sumit Kumar**, a Full-Stack Developer passionate about creating useful
 <td width="50%" align="center" valign="top">
 
 <h3>🏥 MediConnect AI</h3>
-
+### 🏥 MediConnect AI
+<img src="./assets/mediconnect-ai-premium.gif" width="100%"/>
 <p>AI-Powered Healthcare Platform</p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>

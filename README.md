@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=200&section=header&text=SUMIT%20KUMAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=200&section=header&text=SUMIT%20KUMAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Development%20Engineer&descAlignY=60&descSize=16)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+Something+New" alt="Typing animation" />
